@@ -1,3 +1,4 @@
+print('Welcome To Mini Contact Book App')
 contacts = {}
 while True:
     print('\nContact Book App')
